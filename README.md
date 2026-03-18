@@ -5,8 +5,6 @@ A proof-of-concept implementation of the research proposal:
 > **"Generative Discovery of Grain-Boundary Motifs in High-Entropy Alloys:
 > A Closed-Loop AI System for Autonomous Microstructure Exploration"**
 
-Submitted for the Lila Sciences AI Residency, 2026 Cohort.
-
 ---
 
 ## What This Is
@@ -37,6 +35,11 @@ Retrain VAE (next round)  <--------|
 ```
 
 ---
+
+
+<img width="3681" height="3554" alt="Methodology" src="https://github.com/user-attachments/assets/93eb1267-f81b-4633-8ef6-6b9d669d4b01" />
+
+
 
 ## Modules
 
